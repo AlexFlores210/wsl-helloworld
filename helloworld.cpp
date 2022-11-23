@@ -8,4 +8,7 @@ int main() {
         std::cout << word << " ";
     }
     std::cout << std::endl;
+
+    std::cout << "I'm learning to use git." << std::endl;
+    std::cout << "Here's another little change." << std::endl;
 }
